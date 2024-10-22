@@ -1,10 +1,10 @@
-package org.example;
+package org.corejavadsa;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class AppEngine
 {
     public static void main( String[] args )
     {
